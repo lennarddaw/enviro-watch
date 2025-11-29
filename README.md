@@ -62,7 +62,7 @@ _Bitte hier App-Screenshots hinzufügen._
 ---
 
 ## **Autoren**
-Projekt erstellt von [Dein Name].
+Projekt erstellt von Lennard Gross.
 
 ---
 
